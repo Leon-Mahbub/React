@@ -3,6 +3,8 @@ import Card from '../UI/Card';
 import './ExpenseItem.css';
 
 function ExpenseItem(props) {
+
+  
   const clickHandler = () =>{
     console.log('Clicked');
   }
